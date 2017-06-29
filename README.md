@@ -1,2 +1,0 @@
-# zzh
-components of zzh
